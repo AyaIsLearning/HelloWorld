@@ -16,6 +16,7 @@ import java.text.SimpleDateFormat;
 
 class Test {
     static String a="";
+    static int bb=0;
 }
 
 public class MainActivity extends AppCompatActivity {
@@ -62,8 +63,9 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Test.a+="1";
+                Test.bb+=1;
                 textView.setText(Test.a);
-
+                System.out.println(Test.bb);
             }
         });
 
