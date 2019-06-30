@@ -3,4 +3,7 @@
     <string name="testbutton">testbutton</string>
     <string name="testimage">testimage</string>
     <string name="pic_on">开启图片</string>
+    <string name="time">time</string>
+    <string name="textview">0</string>
+    <string name="checkbox">CheckBox</string>
 </resources>
