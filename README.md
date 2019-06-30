@@ -9,3 +9,8 @@
 ### 运行测试
 
 - 在小米9SE，系统版本MIUI 10.3.3 稳定版， Android版本9能够正常运行
+
+### version 0.0.3
+
+- 实现了textView、imageButton、imageView、switch、checkBox，均能正常运行
+
